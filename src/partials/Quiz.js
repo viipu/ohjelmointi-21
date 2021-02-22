@@ -40,7 +40,8 @@ class QuizPartial extends React.Component {
             id={id}
             languageId={languageId}
             backendAddress="https://quizzes.mooc.fi"
-            customContent={loginPrompt}
+            customContent={{ Login: loginPrompt }}
+            fullInfoWithoutLogin
           />
         </StyledPaper>
       )
