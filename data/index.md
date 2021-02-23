@@ -67,22 +67,22 @@ Virallinen tieto kurssin aikatauluista julkaistaan aina tällä sivulla.
     <tr>
       <td>Osa 4</td>
       <td>1.2.2021</td>
-      <td><!--<a href="https://youtu.be/M-XHMppJfEY">Luentotallenne</a>--></td>
+      <td><a href="https://youtu.be/M-XHMppJfEY">Luentotallenne</a></td>
     </tr>
     <tr>
       <td>Osa 5</td>
       <td>8.2.2021</td>
-      <td><!--<a href="https://youtu.be/5HWPcbuaf9s">Luentotallenne</a>--></td>
+      <td><a href="https://youtu.be/5HWPcbuaf9s">Luentotallenne</a></td>
     </tr>
     <tr>
       <td>Osa 6</td>
       <td>15.2.2021</td>
-      <td><!--<a href="https://youtu.be/NHiwpaDfpxs">Luentotallenne</a>--></td>
+      <td><a href="https://youtu.be/NHiwpaDfpxs">Luentotallenne</a></td>
     </tr>
     <tr>
       <td>Osa 7</td>
       <td>22.2.2021</td>
-      <td><!--<a href="https://youtu.be/fHyT49qAwkk">Luentotallenne</a>--></td>
+      <td><a href="https://youtu.be/fHyT49qAwkk">Luentotallenne</a></td>
     </tr>
     <tr>
       <td>Osa 8</td>
