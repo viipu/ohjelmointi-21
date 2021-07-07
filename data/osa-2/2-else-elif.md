@@ -9,7 +9,7 @@ hidden: false
 
 Tämän osion jälkeen
 
-- Osaat luoda vaihtoehtoisia haaroja toistolauseisiin
+- Osaat luoda vaihtoehtoisia haaroja ehtolauseisiin
 - Ymmärrät `if`-, `elif`- ja `else`-lauseiden merkityksen ehtolauseessa
 - Osaat soveltaa jakojäännöstä `%` ehdoissa
 
