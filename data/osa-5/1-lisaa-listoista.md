@@ -569,7 +569,7 @@ Kirjoita funktio `kumpi_voitti(pelilauta: list)`, joka saa parametrikseen kaksiu
 * 1: pelaajan 1 nappula
 * 2: pelaajan 2 nappula
 
-Esimerkissä pelilaudan koko voi olla mikä tahansa.
+Go-pelin pistelasku on usein monimutkaisempaa, mutta tässä ohjelmointitehtävässä riittää laskea kunkin pelaajan pelinappulat laudalla. Esimerkissä pelilaudan koko voi olla mikä tahansa.
 
 Funktio palauttaa arvon 1, jos pelaaja 1 on voittanut pelin, ja arvon 2, jos pelaaja 2 on voittanut pelin. Jos molemmilla pelaajilla on yhtä paljon nappuloita laudalla, funktio palauttaa arvon 0.
 
@@ -577,7 +577,7 @@ Funktio palauttaa arvon 1, jos pelaaja 1 on voittanut pelin, ja arvon 2, jos pel
 
 <programming-exercise name='Sudoku: rivit oikein' tmcname='osa05-03_sudoku_osa1'>
 
-Tee funktio `rivi_oikein(sudoku: list, rivi_nro: int)`, joka saa parametriksi sudokuruudukkoa esittävän kaksiulotteisen taulukon ja rivin numeron kertovan kokonaisluvun (rivit on numeroitu nollasta alkaen). Metodi palauttaa tiedon, onko rivi oikein täytetty eli onko siinä kukin luvuista 1–9 korkeintaan kerran.
+Tee funktio `rivi_oikein(sudoku: list, rivi_nro: int)`, joka saa parametriksi sudokuruudukkoa esittävän kaksiulotteisen taulukon ja rivin numeron kertovan kokonaisluvun (rivit on numeroitu nollasta alkaen). Funktio palauttaa tiedon, onko rivi oikein täytetty eli onko siinä kukin luvuista 1–9 korkeintaan kerran.
 
 ```python
 sudoku = [
